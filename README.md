@@ -1,6 +1,6 @@
 # NETFLIX-MERN
 
-![image](https://user-images.githubusercontent.com/104893311/235490257-3456ad1d-7b4f-40e6-9e48-f86fc84b2e3c.png)
+![image](https://camo.githubusercontent.com/4b306e62cce568b7d68236503c4f4ab832bfef3a60c830795f2107b954c8db11/68747470733a2f2f692e6962622e636f2f516364537a57592f4e6574666c69782d636c6f6e652e706e67)
 
 A Netlfix clone where Users can get authenticated to watch Movies, Series of the different genres available in the list category. The Admin can add Movies, and Series and can categorise them in different lists. All the CRUD operations on Users, Movies/Series, and Lists have been implemented using REST APIS.
 
@@ -65,13 +65,6 @@ export default storage;
 - MongoDB: For performing CRUD operations on Movies/Series/List and storing documents of Users/Movies/List
 - Firebase: For uploading images and videos for each movie/series
 - Postman: For API testing 
-
-## 🚀 Demo 
-
-https://user-images.githubusercontent.com/104893311/235492206-d578d0e4-9584-442f-a01e-b6a9e97dc4f4.mp4
-
-
-
 
 
 
